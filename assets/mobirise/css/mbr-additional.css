@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -413,6 +412,7 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
